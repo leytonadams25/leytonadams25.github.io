@@ -1,0 +1,30 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "SDG Development",
+    "description": "",
+    "home_page_url": "https://leytonadams25.github.io",
+    "feed_url": "https://leytonadams25.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://leytonadams25.github.io/media/website/Soli-Deo.png",
+    "author": {
+        "name": "Leyton Adams"
+    },
+    "items": [
+        {
+            "id": "https://leytonadams25.github.io/hello-world.html",
+            "url": "https://leytonadams25.github.io/hello-world.html",
+            "title": "Hello World!",
+            "summary": "Hello world! Nerdy way to have a first post. I don't expect anyone to read this, so I don't think it should matter much. Why am I even creating this site? Good question. I'm transitioning into ministry in the fall, but I've always worked in&hellip;",
+            "content_html": "<p>Hello world! Nerdy way to have a first post. I don't expect anyone to read this, so I don't think it should matter much. Why am I even creating this site? Good question.</p>\n<p>I'm transitioning into ministry in the fall, but I've always worked in technology, and it is nice to still be around it some. So, doing a small amount of web development seems like an easy way to still perform some small technical tasks. So, that's one reason.</p>\n<p>The other is that I think writing is good for people. Writing forces me to think and get my thoughts out of my head. I should do more writing anyways, but I figure that if I can combine two things I need to do, writing and web development, maybe I'll be more likely to do it.</p>\n<p>So the purpose of this site is do some web development, but what about the content? I am sure it will be a bit random at times, but primarily I want to share good Christian resources. Sometimes I'll share sermons I've heard, sometimes I'll review some books, and sometimes I'll share stuff I've written (which will probably be the worst ones). </p>\n<p>Put all that together, and that is where the site name comes from. SDG is for <em>Soli Deo Gloria</em>: To the glory of God alone. I hate the fact that this site has my name on it (cons of having a free site hosted on GitHub), because I want all this to just be to God's glory. Our lives are not about our glory and praise. The development part of the name comes from the purpose of web development, the purpose of developing personally through writing, and the fact that these are resources which are good for developing as a follower of Christ. </p>\n<p>So, this will be a fun personal project. Since a big purpose of this is for practicing web development, the format of this site will probably change a lot, so hopefully that is not too disorienting. </p>",
+            "image": "https://leytonadams25.github.io/media/posts/1/Untitled-design-1.png",
+            "author": {
+                "name": "Leyton Adams"
+            },
+            "tags": [
+                   "Blog Post"
+            ],
+            "date_published": "2024-04-25T00:24:03-04:00",
+            "date_modified": "2024-04-25T00:29:01-04:00"
+        }
+    ]
+}
